@@ -1,5 +1,7 @@
 #### Warsztat: Gra w zgadywanie liczb.
 
+Technical requirements: Python 3.6, Flask 1.0.2, please see requirements.txt
+
 Napisz prostą grę w zgadywanie liczb. Komputer musi wylosować liczbę w zakresie 1 &ndash; 100. Następnie:
 
 1. Zadać pytanie: "Zgadnij liczbę" i pobrać liczbę z klawiatury.
